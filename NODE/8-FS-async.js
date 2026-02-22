@@ -17,3 +17,13 @@ readFile('./Content/SecondTextFile.txt', 'utf8', (err, data) => {
 });
 
 console.log("End");
+
+/*
+Why Async is Important for You
+
+When you build:
+	•	APIs with Express
+	•	Database calls
+	•	Authentication system
+	•	AI integration
+*/
